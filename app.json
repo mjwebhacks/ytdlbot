@@ -10,19 +10,19 @@
   "env": {
     "TOKEN": {
       "description": "Bot token",
-      "value": "token"
+      "value": "5181000613:AAGAKcgnksVcfC5YY3lX1dIKeloZf5VRMh4"
     },
     "APP_ID": {
       "description": "APP ID",
-      "value": "12345"
+      "value": "3796974"
     },
     "APP_HASH": {
       "description": "APP HASH",
-      "value": "12345abc"
+      "value": "9511d0112631f9990337eb724d1a7d0d"
     },
     "OWNER": {
       "description": "Your telegram username",
-      "value": "username",
+      "value": "mjlearning",
       "required": false
     }
   },
