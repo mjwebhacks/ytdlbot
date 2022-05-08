@@ -4,7 +4,7 @@ services:
   worker:
     image: bennythink/ytdlbot
     env_file:
-      - env/ytdl.env
+      - ytdlbot/config.py
     restart: always
     command: ["/usr/local/bin/supervisord", "-c" ,"/ytdlbot/conf/supervisor_worker.conf"]
     volumes:
